@@ -6,3 +6,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,scss,nodejs,tailwind,electron,svelte)](https://skillicons.dev)
 
+<h1>Tools</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,github,cloudflare,bash)](https://skillicons.dev)
