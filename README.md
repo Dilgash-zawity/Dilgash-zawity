@@ -4,8 +4,8 @@
 
 <h1>Skills</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,svelte,tailwind)](https://skillicons.dev)
 
 <h1>Tools</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,github,cloudflare,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,github,)](https://skillicons.dev)
