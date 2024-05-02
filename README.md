@@ -15,7 +15,7 @@
 <br>
 <p>25%</p>
 
-![My Skills](https://skillicons.dev/icons?i=electron,nodejs,exxpress)
+![My Skills](https://skillicons.dev/icons?i=electron,nodejs,express)
 
 
 
