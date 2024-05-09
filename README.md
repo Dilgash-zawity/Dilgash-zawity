@@ -1,6 +1,5 @@
-- 👋 Hey there! I'm Dilgash, a 18yo designer and web developer from Kurdistan.
-- 📚 Rand Institute student, dedicated to expanding my knowledge and skills.
-- ✨ Join me on my journey of continuous learning and exploring new things.
+-I'm DILGASH, an 18-year-old designer and web developer based in Kurdistan. Currently, I'm a student at Rand Institute, honing my skills in design and web development.
+
 
 <h1>Skills</h1>
 
