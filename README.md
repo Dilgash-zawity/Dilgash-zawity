@@ -1,2 +1,2 @@
-# Hi I am Dilgash, I’m a designer and web developer
-I was born in Kurdistan and self-taught in web design and web development. I have honed my skills through various online courses and personal projects
+# Hello, I'm Dilgash, a designer and front-end web developer from Kurdistan.
+I've honed my skills in frontend web development through self-teaching, supplemented by numerous online courses and personal projects.
