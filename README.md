@@ -33,11 +33,6 @@
 
 
 
-<style>
-  .ContributionCalendar-day {
-    background-color:blue;
-  }
-</style>
 
 
 <div align="left">
