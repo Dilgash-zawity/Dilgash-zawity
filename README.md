@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I’m [**Dilgash**](https://dilgash.com), a Full Web Developer Based in Duhok Kurdistan.
+I’m [**Dilgash**](https://dilgash.com), a Full Stack Web Developer Based in Duhok Kurdistan.
 
 Skilled in Creating User-Friendly Web Applications and Delivering High-Quality Solutions.
 
