@@ -1,25 +1,59 @@
-### Hey there! 👋
+## 👋 Hey there!
 
-I’m [**Dilgash**](https://dilgash.com), a Full Stack Web Developer Based in Duhok Kurdistan.
+I’m [**Dilgash**](https://dilgash.com), a **Full Stack Web Developer** based in **Duhok, Kurdistan**.  
+I build **user-friendly web applications** and focus on **clean, high-quality solutions**.
 
-Skilled in Creating User-Friendly Web Applications and Delivering High-Quality Solutions.
 
-## Tech i use
+## 🧠 Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" />
 </div>
 
+
+## 🧩 Frameworks & Libraries
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" />
+</div>
+
+
+## 🗄️ Databases
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="40" />
+</div>
+
+
+## 🛠️ Tools & Platforms
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" />
+</div>
+
+
+## 🚀 Currently Learning | New Tech
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=rust" height="40" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" />
+</div>
+
+<br>
+⭐️ *Always learning, always building.*
